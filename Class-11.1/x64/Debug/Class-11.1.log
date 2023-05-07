@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Мои проекты Vethyal studia\Class-11.1\Main.cpp(14,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Мои проекты Vethyal studia\Class-11.1\Main.cpp(48,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Class-11.1.vcxproj -> D:\Мои проекты Vethyal studia\Class-11.1\x64\Debug\Class-11.1.exe
