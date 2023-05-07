@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Мои проекты Vethyal studia\Class-11.4\Main.cpp(67,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Class-11.4.vcxproj -> D:\Мои проекты Vethyal studia\Class-11.4\x64\Debug\Class-11.4.exe
